@@ -1,0 +1,143 @@
+/* body{
+    background-color: black;
+} */
+/* navigation bar */
+#navbar{
+    flex-direction: column;
+}
+#logo img{
+    margin-left: 0px;
+    padding-left: 0px;
+    width: 30px;
+    height: 24px;
+    margin-top: 8px;
+}
+#navbar ul{
+    padding-left: 0px;
+}
+#navbar ul li{
+    padding: 0px 3px;
+    font-size: 0.65rem
+}
+/* home */
+#home::before{
+    height: 765px; 
+}
+#home img{
+    width: 400px;
+}
+#home{
+    height: 910px; 
+    padding: 3px 0px;
+}
+#h-primary{
+    font-size:1.5rem;
+}
+#p-primary{
+    font-size:1.1rem;
+}
+#btn{
+    height: 30px;
+    margin-top: 100px;
+}
+/* home2 */
+#home2{
+    height: 1400px;
+}
+#pics{
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-left: 30px;
+    
+}
+#pics1{
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-left: 30px;
+}
+#home2 img{
+    height: 200px;
+    width: 280px;
+    /* width: auto; */
+}
+#items2,#items4{
+    margin-left: 0px;
+}
+#h2-primary-center{
+    margin-left:40px;
+    font-size: 1.8rem;
+}
+h2{
+    font-size: 1.2rem;
+}
+
+
+/* home3 */
+#about{
+    flex-direction: column;
+}
+#home3{
+    height: 750px;
+    width: auto;
+}
+#video video{
+    height: 150px;
+    width: 250px;
+}
+#dynamo{
+margin-left: 31px;
+font-size: 1.3rem;
+}
+#para{
+margin-left: 31px;
+}
+#abus1{
+    margin: 0px;
+}
+#btn2{
+    display: block;
+    font-size: 1rem;
+    height: 30px;
+    margin: 50px auto;
+    
+}
+
+
+/* ready section */
+#second-last{
+    font-size: 1.59rem;
+    margin-left: 34px;
+}
+
+/* ending */
+#ending{
+    height: 800px;
+}
+#path{
+    margin:30px;
+    flex-direction: column;
+    height: 400px;
+}
+#last{
+    width: auto;
+}
+#last p{
+    font-size: 14px;
+}
+#contact{
+    width: auto;
+    padding-left: 0px;
+}
+#contact p{
+    font-size: 15px;
+}
+#social-media{
+    padding-left: 0px;
+}
+#heading{
+    font-size: 1rem;
+}
+/* footer */
+
