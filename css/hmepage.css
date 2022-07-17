@@ -1,0 +1,74 @@
+#homeA img{
+    height: 200px;
+    width: 260px;
+    /* width: auto; */
+}
+#homeA{
+    height: 2300px;
+}
+#pics{
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-left: 30px;
+    
+}
+#pics1{
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 10px;
+    padding-left: 30px;
+}
+
+#items2,#items4,#items5{
+    margin-left: 0px;
+}
+#h2-primary-center{
+    margin-left:40px;
+    font-size: 1.8rem;
+}
+h2{
+    font-size: 1.2rem;
+}
+#btn2{
+    display: block;
+    font-size: 1rem;
+    height: 30px;
+    width: 200px;
+    margin: 50px auto;
+}
+#second-last{
+    margin-left: 31px;
+    font-size: 1.2rem;
+}
+#ending{
+    height: 1200px;
+}
+#ending{
+    height: 800px;
+}
+#path{
+    margin:30px;
+    flex-direction: column;
+    height: 400px;
+}
+#last{
+    width: auto;
+}
+#last p{
+    font-size: 14px;
+}
+#contact{
+    width: auto;
+    padding-left: 0px;
+}
+#contact p{
+    font-size: 15px;
+}
+#social-media{
+    padding-left: 0px;
+    width: 50%;
+}
+#heading{
+    font-size: 1rem;
+}
