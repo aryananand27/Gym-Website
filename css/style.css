@@ -220,3 +220,19 @@ h2{
     background-color: black;
     color: white;
 }
+/* Doing styling of my classes tab */
+#homeA  img{
+    height: 400px;
+    border: 2px double black;
+}
+#homeA{
+    background-color: black;
+    color: white;
+    top: 0px;
+}
+#items5{
+    margin-left: 290px;
+}
+#btn2{
+    width: 190px;
+}
